@@ -6,6 +6,7 @@ Traduction du site [io.js](https://iojs.org/) en français.
 
 - Olivier Scherrer ([@podefr](https://github.com/podefr))
 - Benjamin Cabanes ([@bcabanes](https://github.com/bcabanes))
+- Ben Tranter ([@bentranter](https://github.com/bentranter))
 
 ## The MIT License (MIT)
 
