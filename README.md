@@ -16,6 +16,8 @@ Pour faire partie de l'équipe de traduction (...).
 - Benjamin Cabanes ([@bcabanes](https://github.com/bcabanes))
 - Ben Tranter ([@bentranter](https://github.com/bentranter))
 - Tom Coquereau ([@thaume](https://github.com/thaume))
+- Pierre Inglebert ([@pierreinglebert](https://github.com/pierreinglebert)) &lt;pierre.inglebert@gmail.com&gt;
+
 
 ## The MIT License (MIT)
 
