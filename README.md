@@ -8,7 +8,7 @@ Nous cherchons des traducteurs afin de rendre [io.js](https://iojs.org/) plus ac
 
 Pour savoir quelles sont les traductions actuellement recherchées, vous pouvez vous rendre sur la page des [issues](https://github.com/iojs/iojs-fr/issues).
 
-Pour faire partie de l'équipe de traduction (...).
+Pour faire partie de l'équipe de traduction, créez simplement un nouveau [ticket ici](https://github.com/iojs/iojs-fr/issues) dont le titre contient le mot clé __Traducteur__. Merci!
 
 ## Membre de l'équipe de traduction
 
