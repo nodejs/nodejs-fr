@@ -15,6 +15,7 @@ Pour faire partie de l'équipe de traduction (...).
 - Olivier Scherrer ([@podefr](https://github.com/podefr))
 - Benjamin Cabanes ([@bcabanes](https://github.com/bcabanes))
 - Ben Tranter ([@bentranter](https://github.com/bentranter))
+- Tom Coquereau ([@thaume](https://github.com/thaume))
 
 ## The MIT License (MIT)
 
