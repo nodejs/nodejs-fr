@@ -2,6 +2,14 @@
 
 Traduction du site [io.js](https://iojs.org/) en français.
 
+## Contribuer
+
+Nous cherchons des traducteurs afin de rendre [io.js](https://iojs.org/) plus accessible à la communauté francophone.
+
+Pour savoir quelles sont les traductions actuellement recherchées, vous pouvez vous rendre sur la page des [issues](https://github.com/iojs/iojs-fr/issues).
+
+Pour faire partie de l'équipe de traduction (...).
+
 ## Membre de l'équipe de traduction
 
 - Olivier Scherrer ([@podefr](https://github.com/podefr))
