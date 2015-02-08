@@ -6,7 +6,7 @@ Traduction du site [io.js](https://iojs.org/) en français.
 
 Vous pouvez suivre l'actualité de la communauté francophone d'io.js sur :
  * Twitter [@iojs_fr](https://twitter.com/iojs_fr)
- * Medium [@iojs_fr](https://medium.com/@iojs_fr) 
+ * Medium [@iojs_fr](https://medium.com/@iojs_fr)
 
 
 ## Contribuer
@@ -25,6 +25,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Tom Coquereau ([@thaume](https://github.com/thaume))
 - Pierre Inglebert ([@pierreinglebert](https://github.com/pierreinglebert)) &lt;pierre.inglebert@gmail.com&gt;
 - Jean-Baptiste Musso ([@jbmusso](https://github.com/jbmusso))
+- Maxime Lathuilière ([@maxlath](https://github.com/maxlath))
 
 
 ## The MIT License (MIT)
