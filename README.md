@@ -2,6 +2,13 @@
 
 Traduction du site [io.js](https://iojs.org/) en français.
 
+## Réseaux sociaux
+
+Vous pouvez suivre l'actualité de la communauté francophone d'io.js sur :
+ * Twitter [@iojs_fr](https://twitter.com/iojs_fr)
+ * [Medium]() 
+
+
 ## Contribuer
 
 Nous cherchons des traducteurs afin de rendre [io.js](https://iojs.org/) plus accessible à la communauté francophone.
