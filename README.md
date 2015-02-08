@@ -1,5 +1,7 @@
 # iojs-fr
 
+[![Join the chat at https://gitter.im/iojs/iojs-fr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-fr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Traduction du site [io.js](https://iojs.org/) en français.
 
 ## Réseaux sociaux
