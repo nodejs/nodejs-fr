@@ -6,7 +6,7 @@ Traduction du site [io.js](https://iojs.org/) en français.
 
 Vous pouvez suivre l'actualité de la communauté francophone d'io.js sur :
  * Twitter [@iojs_fr](https://twitter.com/iojs_fr)
- * [Medium]() 
+ * [Medium](https://medium.com/@iojs_fr) 
 
 
 ## Contribuer
