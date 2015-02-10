@@ -27,6 +27,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Tom Coquereau ([@thaume](https://github.com/thaume))
 - Pierre Inglebert ([@pierreinglebert](https://github.com/pierreinglebert)) &lt;pierre.inglebert@gmail.com&gt;
 - Jean-Baptiste Musso ([@jbmusso](https://github.com/jbmusso))
+- Yacine Rezgui ([@yrezgui](https://github.com/yrezgui))
 
 
 ## License
