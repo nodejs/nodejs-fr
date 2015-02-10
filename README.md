@@ -19,7 +19,7 @@ Pour savoir quelles sont les traductions actuellement recherchées, vous pouvez 
 
 Pour faire partie de l'équipe de traduction, créez simplement un nouveau [ticket ici](https://github.com/iojs/iojs-fr/issues) dont le titre contient le mot clé __Traducteur__. Merci!
 
-## Membre de l'équipe de traduction
+## Membres de l'équipe de traduction
 
 - Olivier Scherrer ([@podefr](https://github.com/podefr))
 - Benjamin Cabanes ([@bcabanes](https://github.com/bcabanes))
