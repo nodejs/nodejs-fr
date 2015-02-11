@@ -28,6 +28,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Pierre Inglebert ([@pierreinglebert](https://github.com/pierreinglebert)) &lt;pierre.inglebert@gmail.com&gt;
 - Jean-Baptiste Musso ([@jbmusso](https://github.com/jbmusso))
 - Yacine Rezgui ([@yrezgui](https://github.com/yrezgui))
+- Stephen Lester ([@slester](https://github.com/slester))
 
 
 ## License
