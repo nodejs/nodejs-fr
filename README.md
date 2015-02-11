@@ -29,8 +29,9 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Jean-Baptiste Musso ([@jbmusso](https://github.com/jbmusso))
 - Yacine Rezgui ([@yrezgui](https://github.com/yrezgui))
 - Stephen Lester ([@slester](https://github.com/slester))
+- Nicolas Tallefourtané ([@nicolab](https://github.com/nicolab))
 
 
-## License
+## Licence
 
 [MIT](https://tldrlegal.com/license/mit-license)
