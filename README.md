@@ -31,6 +31,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Stephen Lester ([@slester](https://github.com/slester))
 - Nicolas Tallefourtané ([@nicolab](https://github.com/nicolab))
 - Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet))
+- Martin Larouche ([@schmoopiie](https://github.com/schmoopiie))
 
 
 ## Licence
