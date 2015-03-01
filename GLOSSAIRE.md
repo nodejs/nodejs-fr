@@ -12,8 +12,14 @@ N'oubliez pas de classer les mots par ordre alphabétique!
 
 En | Fr  
 ---|---
-Bringing ES6 to the Node Community! | ES6 pour la communauté Node! 
+breaking change                     | changement incompatible
+Bringing ES6 to the Node Community! | ES6 pour la communauté Node!
+changelog                           | journal des modifications
+event loop                          | boucle événementielle
+handler                             | gestionnaire
 open governance model              | modèle de gouvernance ouvert 
+socket                              | connecteur
+
 
 ## Mots et expressions non traduits
 
