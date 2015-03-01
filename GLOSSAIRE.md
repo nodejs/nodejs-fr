@@ -13,6 +13,7 @@ N'oubliez pas de classer les mots par ordre alphabétique!
 En | Fr  
 ---|---
 breaking change                     | changement incompatible
+bug                                 | défaut
 Bringing ES6 to the Node Community! | ES6 pour la communauté Node!
 changelog                           | journal des modifications
 event loop                          | boucle événementielle
