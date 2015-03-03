@@ -42,7 +42,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 1. Confirmer le titre du document, puis le publier.
 1. Une fois publié, poster un tweet sur [@iojs_fr](https://twitter.com/iojs_fr) incluant le lien vers l'article medium. Example de tweet:
 
-> #iojs Semaine du 20 Février 2015 https://t.co/Gtx3T7SEUP
+> \#iojs Semaine du 20 Février 2015 https://t.co/Gtx3T7SEUP
 
 Note: pour obtenir l'accès à Medium/Twitter, créer un ticket sur la page des issues avec les mots-clés Accès Twitter/Medium dans le titre, et indiquer une adresse email pour recevoir le mot de passe.
 
