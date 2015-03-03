@@ -32,6 +32,7 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet))
 - Martin Larouche ([@schmoopiie](https://github.com/schmoopiie))
 - Christophe Porteneuve ([@porteneuve](https://github.com/porteneuve))
+- Sean Ouimet ([@snostorm](https://github.com/snostorm)) Liaison pour [iojs/website](https://github.com/iojs/website)
 
 ## Licence
 
