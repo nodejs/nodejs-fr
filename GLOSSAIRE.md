@@ -13,15 +13,33 @@ N'oubliez pas de classer les mots par ordre alphabétique!
 En | Fr  
 ---|---
 breaking change                     | changement incompatible
+bringing ES6 to the Node Community! | ES6 pour la communauté Node! 
 bug                                 | bogue
-Bringing ES6 to the Node Community! | ES6 pour la communauté Node!
 changelog                           | journal des modifications
+debugging                           | débogage
+drop-in replacement                 | version alternative 
 event loop                          | boucle événementielle
 handler                             | gestionnaire
-open governance model              | modèle de gouvernance ouvert 
+icu                                 | icu
+memory footprint                    | occupation mémoire
+open governance model               | modèle de gouvernance ouvert 
+package                             | paquets
+patch                               | correctif
+roadmap                             | feuille de route
+slide decks                         | présentations
+standards                           | normes
+streams                             | flux (streams) **(*ajouter le mot anglais également)**
 socket                              | connecteur
-
+tracing                             | traçage
+working group                       | groupe de travail
 
 ## Mots et expressions non traduits
 
+* domains
+* Nightly builds
+* proxy
 * release
+* in progress (en développement) **(*ajouter la traduction fr également)**
+* shipping (livrées) **(*ajouter la traduction fr également)**
+* staged (en phase d'acceptation) **(*ajouter la traduction fr également)**
+* fork
