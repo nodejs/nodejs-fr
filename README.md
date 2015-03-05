@@ -10,7 +10,6 @@ Vous pouvez suivre l'actualité de la communauté francophone d'io.js sur :
  * Twitter [@iojs_fr](https://twitter.com/iojs_fr)
  * Medium [@iojs_fr](https://medium.com/@iojs_fr)
 
-
 ## Contribuer
 
 Nous cherchons des traducteurs afin de rendre [io.js](https://iojs.org/) plus accessible à la communauté francophone.
@@ -33,6 +32,19 @@ Pour faire partie de l'équipe de traduction, créez simplement un nouveau [tick
 - Martin Larouche ([@schmoopiie](https://github.com/schmoopiie))
 - Christophe Porteneuve ([@porteneuve](https://github.com/porteneuve))
 - Sean Ouimet ([@snostorm](https://github.com/snostorm)) Liaison pour [iojs/website](https://github.com/iojs/website)
+
+## Comment publier un document traduit sur les réseaux sociaux
+
+1. Traduire le document original en conservant son format markdown d'origine.
+1. Ajouter le document `.md` traduit au dossier [`articles` sur le repository `iojs-fr`](https://github.com/iojs/iojs-fr/tree/master/articles) via pull-request.
+1. Une fois le document intégré à la branche `master`, l'afficher au format HTML, comme pour [io.js: Semaine du 6 Février 2015](https://github.com/iojs/iojs-fr/blob/master/articles/2015-02-06.md), puis copier le contenu dans le presse-papier.
+1. Aller sur [medium/@iojs_fr](https://medium.com/@iojs_fr) et publier l'article en incluant le titre. Refaire une passe sur le formattage en supprimant les retours à la ligne en trop ou en reformattant les citations.
+1. Confirmer le titre du document, puis le publier.
+1. Une fois publié, poster un tweet sur [@iojs_fr](https://twitter.com/iojs_fr) incluant le lien vers l'article medium. Example de tweet:
+
+> \#iojs Semaine du 20 Février 2015 https://t.co/Gtx3T7SEUP
+
+Note: pour obtenir l'accès à Medium/Twitter, créer un ticket sur la page des issues avec les mots-clés Accès Twitter/Medium dans le titre, et indiquer une adresse email pour recevoir le mot de passe.
 
 ## Licence
 
