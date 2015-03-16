@@ -32,6 +32,7 @@ streams                             | flux (streams) **(*ajouter le mot anglais 
 socket                              | connecteur
 tracing                             | traçage
 working group                       | groupe de travail
+assertion failure                   | échec d'affirmation
 
 ## Mots et expressions non traduits
 
