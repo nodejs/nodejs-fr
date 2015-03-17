@@ -36,11 +36,11 @@ assertion failure                   | échec d'affirmation
 
 ## Mots et expressions non traduits
 
-* domains
-* Nightly builds
-* proxy
-* release
+* domains (domaines)
+* Nightly builds 
+* proxy (proxy)
+* release (mise en production)
 * in progress (en développement) **(*ajouter la traduction fr également)**
 * shipping (livrées) **(*ajouter la traduction fr également)**
 * staged (en phase d'acceptation) **(*ajouter la traduction fr également)**
-* fork
+* fork 
