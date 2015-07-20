@@ -18,7 +18,7 @@
   "home": {
     "download_links": "Télécharger pour {{> current_download_links}}",
     "faq_verbose": "{{link 'pages.faq_verbose'}}",
-    "nightly_releases": "Les {{link 'Nightly releases' 'https://iojs.org/download/nightly/'}} sont disponibles pour des tests.",
+    "nightly_releases": "Les {{link 'Nightly releases' 'https://iojs.org/download/nightly/'}} sont disponibles pour des tests, et {{link 'les nightlies pour la prochaine version majeure' 'https://iojs.org/download/next-nightly/'}}' d'io.js.",
     "short_description": "{{link 'website'}} est une plateforme compatible avec {{link 'npm'}} et basée sur {{link 'nodejs'}}.",
     "slogan": "{{link 'pages.es6'}} pour la communauté Node!",
     "news_link": "Dernières nouvelles: {{link 'Medium' 'https://medium.com/@iojs_fr'}} ou {{link 'Twitter' 'https://twitter.com/iojs_fr'}}"
